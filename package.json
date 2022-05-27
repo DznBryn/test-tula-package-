@@ -1,0 +1,9 @@
+{
+  "name": "@briandemorcy/components",
+  "version": "1.0.1",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": "git@github.com:DznBryn/test-tula-package-.git",
+  "author": "BrianDemorcy <bryan@debybe.com>",
+  "private": false
+}
